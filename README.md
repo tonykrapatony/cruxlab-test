@@ -14,6 +14,7 @@ Open [http://localhost:5173/](http://localhost:5173/) by default or another addr
 
 # for build
 npm run build
+# for viewing
 npm run preview
 
 ```
